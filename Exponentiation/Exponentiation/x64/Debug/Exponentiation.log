@@ -1,0 +1,3 @@
+﻿  Exponentiation.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\Exponentiation\Exponentiation\Exponentiation.cpp(14,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Exponentiation.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\Exponentiation\x64\Debug\Exponentiation.exe
